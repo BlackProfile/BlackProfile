@@ -9,8 +9,11 @@ BlackProfile/BlackProfile is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=BlackProfile&repo=WA-MD&heme=dark)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=BlackProfile&show_icons=true&theme=radical)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackProfile&layout=compact&theme=nightowl)
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=SafwanGanz&repo=Alien-Alfa&heme=dark)
+
+
